@@ -1,0 +1,24 @@
+{
+  "name": "skysound.herokuapp.com",
+  "version": "1.0.0",
+  "description": "skysound",
+  "main": "index.js",
+  "scripts": {
+    "test": "skysound"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hquangthien/skysound.git"
+  },
+  "keywords": [
+    "skysound"
+  ],
+  "author": "hquangthien",
+  "license": "MIT",
+  "engines": {
+    "node": "4.1.1"
+  },
+  "dependencies": {
+    "express": "^4.9.8"
+  }
+}
